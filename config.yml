@@ -1,0 +1,6 @@
+baseURL: https://doveppp.github.io
+languageCode: en-us
+defaultContentLanguage: zh
+title: doveppp
+# 主题
+theme: ["PaperModX"]
